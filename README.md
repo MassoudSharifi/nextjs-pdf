@@ -8,6 +8,11 @@ Server-side PDF generation example using Next.js
 ```
 npm install
 npm run dev
+
+or
+
+yarn
+yarn dev
 ```
 
 ### To see HTML version:
